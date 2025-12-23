@@ -1,6 +1,6 @@
 # midic (v5)
 
-Simple ncurses MIDI browser/player (personal project)
+Simple ncurses MIDI browser/player (personal project). Included are a couple of changes made my copilot.
 
 ## Description
 midic is a tiny terminal MIDI browser/player. It lists directories first (alphabetical), then `.mid` files (alphabetical). Use it to navigate folders and play MIDI files via `aplaymidi`.
