@@ -47,6 +47,13 @@ aplaymidi somefile.mid
 ```
 If `aplaymidi` cannot find a MIDI port, consult ALSA documentation for connecting to a hardware or software synthesizer.
 
+
+## Screenshot
+
+<p float="left">
+  <img src="screenshot.png" alt="midic screenshot" width="900"/>
+</p>
+
 ## Notes
 - This program uses `system("aplaymidi ...")` to play files; it stops other `aplaymidi` processes before starting a new one.
 - Designed as a small personal project; use at your own risk.
